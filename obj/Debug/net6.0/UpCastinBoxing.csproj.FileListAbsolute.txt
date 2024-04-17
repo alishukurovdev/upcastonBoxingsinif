@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\UpCastinBoxing\bin\Debug\net6.0\UpCastinBoxing.exe
+C:\Users\hp\source\repos\UpCastinBoxing\bin\Debug\net6.0\UpCastinBoxing.deps.json
+C:\Users\hp\source\repos\UpCastinBoxing\bin\Debug\net6.0\UpCastinBoxing.runtimeconfig.json
+C:\Users\hp\source\repos\UpCastinBoxing\bin\Debug\net6.0\UpCastinBoxing.dll
+C:\Users\hp\source\repos\UpCastinBoxing\bin\Debug\net6.0\UpCastinBoxing.pdb
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.AssemblyInfo.cs
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.dll
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\refint\UpCastinBoxing.dll
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.pdb
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\UpCastinBoxing.genruntimeconfig.cache
+C:\Users\hp\source\repos\UpCastinBoxing\obj\Debug\net6.0\ref\UpCastinBoxing.dll
